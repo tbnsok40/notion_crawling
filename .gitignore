@@ -4,4 +4,7 @@ index.html
 chromedriver
 secret.json
 NameCrawling.py
-.idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/.name
+
