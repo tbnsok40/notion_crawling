@@ -24,7 +24,9 @@
 <br/>
 
 3. 아래 사진처럼 1차 합격자의 명단과 번호가 박스형태로 저장돼 있습니다. 박스 내부의 지원자 이름과 휴대폰 번호의 개별 Xpath를 가져옵니다(개발자 도구). 
-![image](https://user-images.githubusercontent.com/40200760/111266116-6c367e80-866d-11eb-88f9-ccc8f1931f64.png)
+<br/>
+
+![image](https://user-images.githubusercontent.com/40200760/111266806-655c3b80-866e-11eb-9f05-649929ec471c.png)
 
 <br/>
 
