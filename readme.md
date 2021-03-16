@@ -21,8 +21,12 @@
 
 ![image](https://user-images.githubusercontent.com/40200760/111264425-d7328600-866a-11eb-879f-396d283dffc8.png)
 
+<br/>
+
 3. 아래 사진처럼 1차 합격자의 명단과 번호가 박스형태로 저장돼 있습니다. 박스 내부의 지원자 이름과 휴대폰 번호의 개별 Xpath를 가져옵니다(개발자 도구). 
 ![image](https://user-images.githubusercontent.com/40200760/111266116-6c367e80-866d-11eb-88f9-ccc8f1931f64.png)
+
+<br/>
 
 
 - Xpath를 분석하여, iterate 시켜야 할 element를 for문 처리하면 합격자를 추합할 수 있습니다.
@@ -36,12 +40,20 @@
 ```
 ![image](https://user-images.githubusercontent.com/40200760/111264594-28db1080-866b-11eb-82fa-6b01f8fa86ea.png)
 
+<br/>
+
 
 4. 총 합격자 인원의 값을 xpath로 가져와 for문의 두번째 인자로 넣습니다. 
 
 ![image](https://user-images.githubusercontent.com/40200760/111265175-0bf30d00-866c-11eb-8c5d-e79332b4cb07.png)
 
+<br/>
+
+
 5. 코드를 실행하면 notion 페이지가 자동으로 열리는데, 이때 <strong> 노션 페이지를 하단으로 스크롤</strong>해주어야 합니다.
 - 그렇지 않으면 렌더링이 마저 돌지않아, 크롤러가 위치를 제대로 찾을 수 없게 됩니다.
+
+<br/>
+
 
 6. 나머지 과정은 코드를 그대로 실행하면 됩니다.
