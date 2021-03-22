@@ -16,11 +16,7 @@ def get_name_phone(browser, box):
         for i in range(3, 3 + int(box)):
             name = browser.find_element_by_xpath(
                 '/html/body/div[1]/div/div[1]/div/div[2]/div[3]/div[19]/div[2]/div/div/div[2]/div[1]/div[' + str(
-<<<<<<< HEAD:Crawling_notion.py
                     i) + ']/a/div/div[2]/div').text  # 왜 됐다 안됐다 하노,,, # 마우스 스크롤 밑으로 내려가지 않아서 -> (브라우저 팝업할 때) 스크롤 다운 로직 추가할 것
-=======
-                    i) + ']/a/div/div[2]/div').text
->>>>>>> 70fd23f68b4595ee2db321ee7a604a88da58533e:crawling_phone.py
             phone = browser.find_element_by_xpath(
                 '/html/body/div[1]/div/div[1]/div/div[2]/div[3]/div[19]/div[2]/div/div/div[2]/div[1]/div[' + str(
                     i) + ']/a/div/div[3]/div/a/div/span').text
