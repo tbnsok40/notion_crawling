@@ -11,11 +11,13 @@
 
 ## 🦁 설명
 
-1. chromedriver 설치 후 실행파일(crawling_phone.py)과 같은 디렉토리에 배치합니다.
+1. chromedriver 설치 후 실행파일(Crawling_notion.py)과 같은 디렉토리에 배치합니다.
 
 ![image](https://user-images.githubusercontent.com/40200760/111263240-e1ec1b80-8668-11eb-9a0a-031dcc4259de.png)
 
-- 우선 crawling_phone.py와 chromedriver 파일만 고려합니다.
+- 우선 Crawling_notion.py와 chromedriver 파일만 고려합니다.
+- (crawling_phone.py --> Crawling_notion.py)
+
 
 2. 크롤링 할 notion page의 url을 url 변수로 지정합니다.
 
