@@ -1,8 +1,8 @@
 > # Notion Crawling for 🦁 Likelion PNU 9th applicant
 
 
-## 🦁 개요
-1. Notion에 정리된 지원자들의 정보 취합 프로그램
+## 🦁 개요 - 취지
+1. 멋쟁이사자처럼 9기 부산대 지원자 정보 취합 프로그램 from Notion
 2. 서류 합격자 선별 및 이름, 휴대폰 번호 크롤링
 3. 그냥 해보고 싶었다
 
