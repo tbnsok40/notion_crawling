@@ -1,5 +1,5 @@
 from collections import defaultdict
-from private_data import *
+from private_data import park, cha, lim, lee, seo
 
 # interviewer 리스트의 각 element 는 ['이름 점수', '이름 점수', ...] 형태의 리스트 자료형.
 interviewer = [park, cha, lim, lee, seo]
